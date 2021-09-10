@@ -1,0 +1,22 @@
+{
+  "cities": [
+    {
+      "id": 2,
+      "name": "Киев"
+    },
+    {
+      "id": "L-c2J2Api",
+      "name": "Rome"
+    }
+  ],
+  "faculties": [
+    {
+      "id": 2,
+      "name": "IT"
+    },
+    {
+      "id": "EcEPFEBY-",
+      "name": "Welding"
+    }
+  ]
+}
